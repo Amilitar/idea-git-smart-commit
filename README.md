@@ -1,0 +1,1 @@
+# idea-git-smart-commit
